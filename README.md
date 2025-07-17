@@ -25,15 +25,7 @@ This is a fully functional e-commerce web application inspired by Flipkart. It i
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of your app UI here_  
-Example:
-- `screenshots/homepage.png`
-- `screenshots/cart.png`
-- `screenshots/admin-panel.png`
-
----
 
 ## 🛠️ Local Setup Instructions
 
@@ -57,4 +49,13 @@ python manage.py migrate
 
 # Start the server
 python manage.py runserver
+
+cd ../frontend
+npm install
+npm start
+🙋‍♂️ Author
+Raunak Kumar
+GitHub Profile
+
+
 
